@@ -1,0 +1,2 @@
+rootProject.name = "Intent_in_kotlin"
+include ':app'
